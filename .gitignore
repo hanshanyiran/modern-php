@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+/storage
+/.idea
+.env
+public/assets/chats/node_modules
+public/assets/chats/src/lib
+public/assets/chats/lib
+app/Http/Middleware/HeaderMiddleware.php
